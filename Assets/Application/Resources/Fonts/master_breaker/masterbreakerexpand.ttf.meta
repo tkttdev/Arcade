@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6262876d879488f4d8947376511a121d
+timeCreated: 1499142710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Master Breaker Expanded
+  fontNames:
+  - Master Breaker Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

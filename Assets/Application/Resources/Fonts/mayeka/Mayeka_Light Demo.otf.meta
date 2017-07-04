@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5f90a8a9c490bae43aaa61c184adf102
+timeCreated: 1499142710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mayeka Light Demo
+  fontNames:
+  - Mayeka Light Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

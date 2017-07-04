@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: caa90e8c7b710fc4cbb9fd0b077c5d62
+timeCreated: 1499142715
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Master Breaker Title Italic
+  fontNames:
+  - Master Breaker Title Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

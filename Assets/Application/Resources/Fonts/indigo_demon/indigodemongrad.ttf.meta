@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2c21bfaa5f3ad3a47b2dd8ea5e1b858d
+timeCreated: 1499142708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon Gradient
+  fontNames:
+  - Indigo Demon Gradient
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 35a2c0a9a0296cd409d8faf76710c375
+timeCreated: 1499142709
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WOX~Modelist Bold Demo
+  fontNames:
+  - WOX~Modelist Bold Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

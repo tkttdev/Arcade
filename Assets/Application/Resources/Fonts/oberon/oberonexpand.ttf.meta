@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2ad9812d20f8b34a90ad57f68c9774e
+timeCreated: 1499142716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Expanded
+  fontNames:
+  - Oberon Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

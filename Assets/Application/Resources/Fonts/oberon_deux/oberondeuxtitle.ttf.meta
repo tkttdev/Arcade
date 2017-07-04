@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 51c2b2e2bb9ee5f48b9f9156e1a9247e
+timeCreated: 1499142709
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Title
+  fontNames:
+  - Oberon Deux Title
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

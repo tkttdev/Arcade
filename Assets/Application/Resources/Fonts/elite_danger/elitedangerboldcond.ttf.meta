@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 61015c23dccd0624c9b229f106b60c73
+timeCreated: 1499142710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elite Danger Bold Condensed
+  fontNames:
+  - Elite Danger Bold Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

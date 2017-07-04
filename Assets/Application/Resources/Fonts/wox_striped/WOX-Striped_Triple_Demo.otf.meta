@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 96437c1dd0e582a40aeb07feba9628d8
+timeCreated: 1499142712
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WOX-Striped Triple Demo
+  fontNames:
+  - WOX-Striped Triple Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

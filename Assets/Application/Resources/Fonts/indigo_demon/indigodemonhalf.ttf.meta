@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0461603442b979b43b2b5ddccb616a98
+timeCreated: 1499142707
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon Halftone
+  fontNames:
+  - Indigo Demon Halftone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

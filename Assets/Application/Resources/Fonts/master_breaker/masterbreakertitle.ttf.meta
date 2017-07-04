@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8ccf460e1f535eb4590d25ba908b1a66
+timeCreated: 1499142711
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Master Breaker Title
+  fontNames:
+  - Master Breaker Title
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

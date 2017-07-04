@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 44e9fc384bf34f84e9fea418887586fe
+timeCreated: 1499142709
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Master Breaker Condensed Italic
+  fontNames:
+  - Master Breaker Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

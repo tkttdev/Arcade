@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ea17be2b1dc302b4b88843062500959d
+timeCreated: 1499142716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon Laser
+  fontNames:
+  - Indigo Demon Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a0ddd37a969f90d48a3a8586a3f8913e
+timeCreated: 1499142712
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Leftalic
+  fontNames:
+  - Oberon Deux Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

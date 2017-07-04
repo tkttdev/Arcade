@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d09a3900f8d3a3d4eae7923cbc2d7615
+timeCreated: 1499142716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Semi-Italic
+  fontNames:
+  - Oberon Deux Semi-Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

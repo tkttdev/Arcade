@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 010d37c9e3867084b99c325ea87b2886
+timeCreated: 1499142707
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon
+  fontNames:
+  - Indigo Demon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

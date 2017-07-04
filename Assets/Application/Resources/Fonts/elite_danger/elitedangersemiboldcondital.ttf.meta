@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 97bdb504073b4244c86f15b44043f0b0
+timeCreated: 1499142712
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elite Danger Semi-Bold Condensed Italic
+  fontNames:
+  - Elite Danger Semi-Bold Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

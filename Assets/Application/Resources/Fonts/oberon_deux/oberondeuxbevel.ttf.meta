@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f3ff66e1d7263cc40885787a4fdaf649
+timeCreated: 1499142716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Bevel
+  fontNames:
+  - Oberon Deux Bevel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c07a6719a3821ca4daeb7616a03b623a
+timeCreated: 1499142715
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Title Italic
+  fontNames:
+  - Oberon Deux Title Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

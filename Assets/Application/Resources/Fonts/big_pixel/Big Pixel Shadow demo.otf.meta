@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 22c054012fd693a479bf25124eae65f2
+timeCreated: 1499142708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Big Pixel Shadowed Demo
+  fontNames:
+  - Big Pixel Shadowed Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

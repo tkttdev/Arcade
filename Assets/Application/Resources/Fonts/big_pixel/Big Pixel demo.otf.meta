@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6106811e8ef85ae4fae0ff1c5f3d437f
+timeCreated: 1499142710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Big Pixel Demo
+  fontNames:
+  - Big Pixel Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

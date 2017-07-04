@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf306710afe12b94c8e8a415f0401b8e
+timeCreated: 1499142714
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Title
+  fontNames:
+  - Oberon Title
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

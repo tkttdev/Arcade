@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ee991e8d39706ad47a839938a1081568
+timeCreated: 1499142716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WOX~Modelist Bold Italic Demo
+  fontNames:
+  - WOX~Modelist Bold Italic Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

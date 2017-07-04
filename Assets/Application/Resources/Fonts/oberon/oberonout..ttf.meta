@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0dcf8cb550465554fb3851f14abb09e9
+timeCreated: 1499142708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Outline
+  fontNames:
+  - Oberon Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

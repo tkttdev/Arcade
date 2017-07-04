@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2e875b2a65f3e9b4893019942e04dcf8
+timeCreated: 1499142708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mayeka Thin Demo
+  fontNames:
+  - Mayeka Thin Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

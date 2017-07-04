@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b2e79616a59ad1041ae11743ab6de25c
+timeCreated: 1499142713
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon Leftalic
+  fontNames:
+  - Indigo Demon Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

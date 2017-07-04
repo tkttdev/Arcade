@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f2ba3883d36280849a7e66e889697dde
+timeCreated: 1499142716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WOX~Modelist Thin Italic Demo
+  fontNames:
+  - WOX~Modelist Thin Italic Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

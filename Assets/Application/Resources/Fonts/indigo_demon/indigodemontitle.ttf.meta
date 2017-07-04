@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a49d4d5294ef164a81bbf2210f68b75
+timeCreated: 1499142707
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon Title
+  fontNames:
+  - Indigo Demon Title
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

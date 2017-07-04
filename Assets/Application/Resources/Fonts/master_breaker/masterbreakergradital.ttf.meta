@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab8347ae1a7c0b94d9eef4521ebc8cfb
+timeCreated: 1499142713
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Master Breaker Gradient Italic
+  fontNames:
+  - Master Breaker Gradient Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

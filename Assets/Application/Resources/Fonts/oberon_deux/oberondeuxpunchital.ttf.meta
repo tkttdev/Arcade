@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fd85177c8c454f847b4d5f41fbcc335d
+timeCreated: 1499142717
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Punch Italic
+  fontNames:
+  - Oberon Deux Punch Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05380216396bd114499ba37bf359b67f
+timeCreated: 1499142707
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WOX~Modelist Thin Demo
+  fontNames:
+  - WOX~Modelist Thin Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

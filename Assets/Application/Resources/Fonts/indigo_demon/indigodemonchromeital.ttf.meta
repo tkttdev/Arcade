@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f88b3fbfef82bdc4cb5a2739efed599e
+timeCreated: 1499142717
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indigo Demon Chrome Italic
+  fontNames:
+  - Indigo Demon Chrome Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
